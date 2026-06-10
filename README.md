@@ -1,29 +1,131 @@
-## Hi there 
+# Abdullah Abdullah
 
-# About Me:
-# About Me:<br>Welcome to my GitHub! I'm a Web Development & Cybersecurity student based in the UK, passionate about building secure, scalable applications and solving real-world problems through ethical hacking and smart architecture.<br>🔐 Cybersecurity & Ethical Hacking – Hands-on with secure VM setups, penetration testing labs, and ethical practices<br>🧱 Backend Architecture – Hybrid SQL/NoSQL solutions, PostgreSQL schemas, and Node.js  APIs<br>🛠 DevOps & Containers – Docker-first workflows with clean file structures and secure secret handling<br>📱 Cross-Platform Development – React Native apps with Supabase integration and real-time features<br><br><br>🤝 Let's Connect<br>Whether you're a fellow developer, educator, or security enthusiast—I'd love to collaborate, learn, or help out. Feel free to explore my repos, raise issues, or reach out.<br><br><br><br>
+BSc (Hons) Web Development and Cyber Security graduate from the University 
+of Northampton (Predicted: First Class Honours). I build secure mobile and 
+web applications and have practical experience across both offensive and 
+defensive security — penetration testing, vulnerability assessment, secure 
+application development, threat modelling, and incident response.
 
+Actively developing my cyber security skill set through independent study and 
+lab work. Working towards CompTIA Security+ and progressing through TryHackMe labs 
+covering SOC analysis, threat detection, and offensive security techniques.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-a-362a3b212/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdullah98827&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdullah98827&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah98827&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdullah98827&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abdullah98827&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Open to entry-level roles in cyber security — junior SOC analyst, penetration 
+testing, or any security-focused position.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdullah98827&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Security Skills
+
+**Tools:** Nmap, Burp Suite, Metasploit, Nessus, Wireshark, OWASP ZAP, 
+Gobuster, Kali Linux
+
+**Frameworks:** OWASP Top 10, NIST Cybersecurity Framework, ISO 27001, 
+GDPR, Secure SDLC
+
+**Offensive:** Penetration Testing, Network Reconnaissance, Vulnerability 
+Scanning, Exploitation, Post-Exploitation, Threat Modelling
+
+**Defensive:** Incident Response, Log Analysis, SIEM concepts (Splunk/Wazuh), 
+Threat Detection, Cryptography, Static Code Analysis (CodeQL)
+
+**Secure Development:** JWT, MFA, Row-Level Security, Role-Based Access 
+Control, Dependency Scanning, OWASP A02:2021 remediation
+
+---
+
+## Projects
+
+**Teacher-Hub** — Dissertation project graded 86%. A production-grade secure 
+cross-platform application for UK teachers to share and collaborate on 
+educational resources, with AI-driven accessibility tools for SEN and EAL 
+learners. Built in React Native and Supabase with JWT authentication, MFA, 
+TRN-based identity verification, and row-level security policies enforced at 
+database level.
+
+Security implementation included CodeQL static analysis at 100% source file 
+coverage, GitHub Dependency Scanning, Dependabot alerts, and npm audit — 
+zero open vulnerabilities confirmed at submission. During manual security 
+testing I identified and patched a real API key exposure vulnerability 
+classified under OWASP A02:2021 (Cryptographic Failures).
+
+Evaluated through 279 black-box functional test cases, a System Usability 
+Scale score of 93/100 with practising teachers, and a WCAG 2.1 Level AA 
+accessibility audit.
+
+**CityFix** — A council issue reporting mobile app built in React Native and 
+Expo with Firebase. Supports five user roles (Citizen, Dispatcher, Engineer, 
+QA Auditor, Admin) with role-based access control, real-time GPS location 
+tagging, media upload via Firebase Cloud Storage, and Haversine-based 
+duplicate detection to prevent redundant submissions. Delivered 100+ test 
+cases covering authentication flows, role permissions, and data integrity.
+
+**Penetration Testing Engagement (University Lab)** — A full internal network 
+penetration test following a professional methodology from pre-engagement 
+planning through to structured remediation reporting. Scope covered five 
+hosts: Kali Linux attack machine, Apache web server, Metasploitable Linux 
+server, Windows 7 and Windows 10 workstations.
+
+Methodology: passive and active reconnaissance using Nmap (host discovery, 
+OS fingerprinting, service enumeration), vulnerability scanning with Nessus 
+across all targets, exploitation with Metasploit.
+
+Key findings and results:
+- Root shell access achieved on Metasploitable via vsFTPd 2.3.4 backdoor
+- Meterpreter session established on Windows 7 via EternalBlue (MS17-010) 
+  with full post-exploitation enumeration
+- CVE-2019-0708 (BlueKeep) identified and documented on RDP service
+- Apache PHP CGI remote code execution (CVSS 9.8) identified and documented
+- SQL injection in phpMyAdmin identified and documented
+- Directory traversal and clickjacking vulnerabilities identified on Apache 
+  web server using Gobuster and Metasploit modules
+
+All findings written up in a structured professional report with executive 
+summary, CVSS-rated vulnerability tables, exploitation screenshots, and 
+prioritised remediation recommendations.
+
+---
+
+## Education
+
+BSc (Hons) Web Development and Cyber Security — University of Northampton  
+2023 to 2026 | Predicted: First Class Honours
+
+Relevant modules: Ethical Hacking, Penetration Testing, Server Administration 
+and Security, Cyber Security and Applied Cryptography, Cyber Security 
+Management, Mobile App Development, Modern Databases, Object Databases
+
+---
+
+## Certifications and Ongoing Development
+
+- CompTIA Security+ — in progress
+- TryHackMe — SOC Analyst and Pre-Security paths, ongoing
+- University of Northampton — BSc (Hons) Web Development and Cyber Security
+
+---
+
+## Tech Stack
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+---
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-a-362a3b212/)
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Abdullah98827&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Abdullah98827&theme=nightowl&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah98827&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abdullah98827&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Abdullah98827&icon=0&color=0)](https://visitcount.itsvg.in)
