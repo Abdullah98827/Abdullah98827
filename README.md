@@ -40,33 +40,6 @@ Control, Dependency Scanning, OWASP A02:2021 remediation
 
 ---
 
-
-## Projects
-
-**Teacher-Hub** — Dissertation project graded 86%. A production-grade secure 
-cross-platform application for UK teachers to share and collaborate on 
-educational resources, with AI-driven accessibility tools for SEN and EAL 
-learners. Built in React Native and Supabase with JWT authentication, MFA, 
-TRN-based identity verification, and row-level security policies enforced at 
-database level.
-
-Security implementation included CodeQL static analysis at 100% source file 
-coverage, GitHub Dependency Scanning, Dependabot alerts, and npm audit — 
-zero open vulnerabilities confirmed at submission. During manual security 
-testing I identified and patched a real API key exposure vulnerability 
-classified under OWASP A02:2021 (Cryptographic Failures).
-
-Evaluated through 279 black-box functional test cases, a System Usability 
-Scale score of 93/100 with practising teachers, and a WCAG 2.1 Level AA 
-accessibility audit.
-
-**CityFix** — A council issue reporting mobile app built in React Native and 
-Expo with Firebase. Supports five user roles (Citizen, Dispatcher, Engineer, 
-QA Auditor, Admin) with role-based access control, real-time GPS location 
-tagging, media upload via Firebase Cloud Storage, and Haversine-based 
-duplicate detection to prevent redundant submissions. Delivered 100+ test 
-cases covering authentication flows, role permissions, and data integrity.
-
 **Penetration Testing Engagement (University Lab)** — A full internal network 
 penetration test following a professional methodology from pre-engagement 
 planning through to structured remediation reporting. Scope covered five 
