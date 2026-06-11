@@ -10,10 +10,12 @@ Actively developing my cyber security skill set through independent study and
 lab work. Working towards CompTIA Security+ and progressing through TryHackMe labs 
 covering SOC analysis, threat detection, and offensive security techniques.
 
-Open to entry-level roles in cyber security — junior SOC analyst, penetration 
+Open to entry-level roles in cyber security - junior SOC analyst, penetration 
 testing, or any security-focused position.
 
 ---
+
+## Projects
 
 ## Security Skills
 
@@ -40,7 +42,7 @@ Control, Dependency Scanning, OWASP A02:2021 remediation
 
 ---
 
-**Penetration Testing Engagement (University Lab)** — A full internal network 
+**Penetration Testing Engagement (University Lab)**: A full internal network 
 penetration test following a professional methodology from pre-engagement 
 planning through to structured remediation reporting. Scope covered five 
 hosts: Kali Linux attack machine, Apache web server, Metasploitable Linux 
